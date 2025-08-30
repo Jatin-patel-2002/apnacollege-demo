@@ -1,3 +1,3 @@
 # apnacollege-demo
 This is my first repository
-author-jatin patel
+author-jatin patel(guy)
